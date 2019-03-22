@@ -1,6 +1,6 @@
-import '../staticSource/css.css';
-import '../staticSource/scss.scss';
-import '../staticSource/less.less';
+import '-/css.css';
+import '-/scss.scss';
+import '-/less.less';
 import Vue from 'vue';
 import App from './App.vue';
 import vueRouter from 'vue-router';
